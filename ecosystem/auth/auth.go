@@ -4,3 +4,13 @@
 @File   : auth.go
 */
 package auth
+
+// 注册
+func Register() {
+
+}
+
+// 登录
+func Login() {
+
+}
